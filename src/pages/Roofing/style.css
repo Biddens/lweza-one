@@ -1,0 +1,83 @@
+.roof{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    margin: 5% 0%;
+
+
+}
+.bd{
+    font-weight: 900;
+}
+
+.tr{
+    padding: 5px;
+    border: 2px solid #FF6624;
+    
+font-weight: 800!important;
+    
+
+    
+
+    
+}
+.subhead{
+    font-size: 25px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.td{
+    padding: 8px!important;
+    border: 1px solid #FF6624;
+}
+.last0{
+    margin-top: 5%;
+
+
+}
+.ali0{
+    font-size: 12px;
+        margin-left: 5%!important;
+    
+}
+
+
+
+/* .tab0{
+    margin-left: 23%;
+} */
+
+
+@media only screen and (min-width: 576px) {
+.ali0{
+    margin-left: 3%!important;
+}}
+
+
+
+@media screen and (max-width: 600px) {
+    .ali0{
+margin-left:10% !important;  
+
+
+
+
+
+
+
+
+
+}
+
+.tr{
+    font-weight: 800!important;
+    color: black!important;
+}
+
+.dp1{
+    background-color: #fff;
+    width: 20px;
+    width: 26%;
+ }}
+    

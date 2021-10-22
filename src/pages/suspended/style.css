@@ -1,0 +1,44 @@
+.roof{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    margin: 5% 0%;
+
+
+}
+.bd{
+    font-weight: 900;
+}
+
+.tr{
+    padding: 5px;
+    border: 2px solid #FF6624;
+    
+    
+
+    
+
+    
+}
+.subhead{
+    font-size: 25px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.td{
+    padding: 5px;
+    border: 1px solid #FF6624;
+}
+.last0{
+    margin-top: 5%;
+
+
+}
+
+@media only screen and (min-width: 600px) {
+    .tab0 {
+        margin-left: 6%!important;
+    }
+
+}

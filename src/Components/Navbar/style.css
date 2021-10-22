@@ -1,0 +1,199 @@
+.logo{
+    width: 200px;
+    height: 60px;
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat', sans-serif;}
+.cf0{
+    padding: 0px !important;
+    background-color: #fff;
+    font-family: 'Montserrat', sans-serif;
+width: 100%!important;}
+.collapse{
+    margin-right: 5%!important;
+    font-family: 'Montserrat', sans-serif;}
+.navbar-light .navbar-brand {
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;    color: brown;
+    margin-left: -3%;
+    font-weight: 900;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #000000;
+    font-size: 22px!important;
+    font-family: 'Montserrat', sans-serif;
+font-weight: 900;}
+.pad{
+    margin: 15px;}
+.navbar-light .navbar-nav .nav-link {
+    color: #1B3644;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+font-weight: 900;}
+.icon1{
+    width: 20px;
+    height: 20px;
+}
+.bg-light {
+    background-color: #f1f1f1!important;    padding: 0px;
+    font-family: 'Montserrat', sans-serif;    margin: 0px;
+    font-weight: 900;
+    
+    
+}
+.navbar-toggler:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    margin-right: 10px;
+}
+.nav-link:hover{
+    background-color: #ff6624!important;
+    color: white!important;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+}
+.dropbtn {
+    padding: 15px;
+    font-size: 22px;
+    margin-top: 5px;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+  }
+  .dropdown-content {
+    margin-top: -2px;
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgb(0 0 0 / 20%);
+    font-family: 'Montserrat', sans-serif;
+    z-index: 1;
+    font-weight: 900;
+} 
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    font-family: 'Montserrat', sans-serif;    z-index: 1;
+    font-weight: 900;
+
+  }
+  
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    font-family: 'Montserrat', sans-serif;  }
+  .navbar-brand{
+      margin-left: -6%;
+      color: #ff6624;
+      font-weight: 900;
+
+  }
+  
+  .dropdown-content a:hover {background-color:#ff6624;
+    font-family: 'Montserrat', sans-serif;color: white;}
+  
+  .dropdown:hover .dropdown-content {display: block;
+    font-family: 'Montserrat', sans-serif;}
+  
+  .dropdown:hover .dropbtn {background-color: #ff6624;
+color: white;}
+
+
+
+.img0{
+    width: 200px!important;
+    height: 120px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+@media screen and (max-width: 600px) {
+   
+   
+    .cf0 {
+        padding: 0px !important;
+        background-color: #fff;
+        font-family: 'Montserrat', sans-serif;
+        width: 104%!important;
+    }
+
+    .navbar-light .navbar-brand {
+        font-size: 20px;
+        font-family: 'Montserrat', sans-serif;        color: brown;
+        margin-left: -20%;
+        font-weight: 500;
+    }
+    .dropdown {
+        position: relative;
+        display: inline-block;
+        font-family: 'Montserrat', sans-serif;        margin-left: -19px;
+    }
+    .dropdown:hover .dropdown-content {
+        display: block;
+        font-family: 'Montserrat', sans-serif;        width: 368px;
+    }
+    .details1 {
+        color: #fff;
+        font-size: 20px!important;
+        font-weight: 600!important;
+        font-family: 'Montserrat', sans-serif;        margin: 13% 0px!important;
+    }
+    
+    .pad {
+        margin: 9px 20px;
+        padding: 0px;
+    }
+    .collapse{
+        margin-right: 0%!important;
+    }
+   
+
+
+
+}
+
+
+
+  @media screen and (max-width: 800px) {
+    .img0 {
+        width: 110px!important;
+        height: 88px;
+    }
+    
+}
