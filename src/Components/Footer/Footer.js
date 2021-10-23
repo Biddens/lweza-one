@@ -66,7 +66,7 @@ function Footer (){
 
 <div className="col-md-6 ">
   <h4 className="md0">About Us</h4>
-  <p className="footerheading">Uganda Clays is leading manufacturer of quality baked clay building products in Uganda. It uses Hoffman kilns to currently provide the building materials in a brick-red color. The company’s products are categorized into roofing tiles, bricks, maxpans, quarry floor tiles and others.</p>
+  <p className="footerheading">Lweza Clays Ltd undertakes with transparency to utilize all resources to the best ability. Our workforce comprises both semi-skilled and professional staff, and is well administered to deliver maximum results with our new generation of practical ideas.</p>
 
 
 
@@ -76,10 +76,7 @@ function Footer (){
 
 <h4 className="md0">Contact Us</h4>
 <p className="footerheading">
-Factory at kajjansi, 14 kms Entebbe Road, Kajjansi
-P.O.Box 3188 Kampala, Uganda
-Tel: +256 312 305403 / 0392 750154
-Mobile: +256 772 700255
+Address: Off Entebbe Road (Near Recreation Center Sauna) P.O.Box 9036 Kampala - Uganda<br/> Mobile: +256 782 295323 / +256 779 655664 / +256 393 517108 (Factory)<br/> Email: lwezaclaysltd@gmail.com
 </p>
 
 

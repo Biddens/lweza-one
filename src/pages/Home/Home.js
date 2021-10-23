@@ -47,7 +47,7 @@ function Home (){
   <div className="container text-center">
     <div className="row">
     <div className="col-md-12">
-<p className="details">One of Uganda's Oldest and Premier<br/> Manufactures of baked clay building<br/>  products</p>
+<p className="details">One of Uganda's Premier<br/> Manufacturers & Distributors of Quality Clay Building and Decorative Ware</p>
         </div>
         <div className="col-md-4" style={{marginBottom:"5%"}}>
           <img src={tick} className="icon" />
@@ -78,7 +78,7 @@ function Home (){
      <div className="container-fluid cs7 text-center" >
     <div className="row">
     <div className="col-md-12 text0">
-    <p className="details1">With our diverse and extensive experience in <br/> the construction field and logistics,we combine<br/> our experience and dedication work force<br/> to provide total and comprehensive packag of building  <br/> materials Manufactures of baked clay building<br/>  products</p>
+    <p className="details1">With our diverse and extensive experience in <br/> the construction field and logistics, we combine<br/> our experience and dedicated work force<br/> to provide a comprehensive package of building  <br/> materials </p>
 
     
 
