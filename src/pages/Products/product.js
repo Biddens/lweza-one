@@ -27,37 +27,13 @@ function Suspend (){
   <div className="col-md-12"style={{marginBottom:"10%"}}>
 
 
-    <p className="fonts1">UCL products are all baked to approximately 1000 degrees centigrade and are thus fire-resistant. They are also sound and water proof and act as good heat insulators. These qualities are ensured by quality assurance testing constantly done throughout the production process. In these tests they are checked for linear shrinkage and size (every two hours), their moisture content before and after baking, water absorption, as well as composition of salts.</p>
+    <p className="fonts1">Lweza Clays Limited is a private company that manufactures modern, standard, durable and affordable building materials that are internationally friendly in real estate development today. Our company has built a reputation with clients who have been particularly interested in putting up residential and commercial structures both at the national and international levels. Our major objective is to enable builders to acquire building materials at the cheapest cost possible and above all, offer great service to our customers.</p>
   </div>
  
-
-
-
-
-  <div className="col-md-12"style={{marginBottom:"10%"}}>
-
-
-    <h3 className="text-left tl">ISO Certification</h3>
-    <br/>
-
-   < p className="fonts1">Periodic tests are made on samples sent to Uganda National Bureau of Standards and Central Materials Laboratory. All these tests ensure that all products sold are of unmatched quality, a cornerstone of UCL since obtaining ISO 9001:2000 certification in 2003. We have completed the upgrade to the ISO 9001:2008 standard.We are pleased to announce that we are now ISO 9001:2008 certified since March 2014
-
-</p>
-  </div>
-
-
-
-
 
   </div>
 
       <div className="row">
-
-
-
-
-        
-
      
       <div className="col-md-4  text-center">
 <p className="subhead">Half bricks and floor </p>
