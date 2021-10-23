@@ -36,7 +36,7 @@ function Suspend (){
       <div className="row">
      
       <div className="col-md-4  text-center">
-<p className="subhead">Half bricks and floor </p>
+<p className="subhead">Half Bricks and Floor Tiles </p>
 
           <img src={half} width="270px" height="200px" />
           <br/>
@@ -49,7 +49,7 @@ function Suspend (){
      
 </div>
 <div className="col-md-4  text-center">
-<p className="subhead">Walling and partitioning </p>
+<p className="subhead">Walling and Partitioning Blocks</p>
 
           <img src={wal1} width="270px" height="200px" />
           <br/>

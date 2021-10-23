@@ -59,7 +59,7 @@ function Roofing (){
      
      </div>
      <div className="col-md-6  text-center">
-     <p className="subhead"> Manganre </p>
+     <p className="subhead"> Mangalore Tiles </p>
 
      <img src={roof2} width="270px" height="200px" />
      <br/>

@@ -23,7 +23,7 @@ function Halfbricks (){
 
      
       <div className="col-md-6  text-center">
-<p className="subhead"> Half Brick </p>
+<p className="subhead"> Half Bricks </p>
 
           <img src={half} width="270px" height="200px" />
           <br/>
@@ -58,7 +58,7 @@ function Halfbricks (){
      
      </div>
      <div className="col-md-6  text-center">
-     <p className="subhead"> Fire Brick </p>
+     <p className="subhead"> Fire Bricks </p>
 
      <img src={half1} width="270px" height="200px" />
      <br/>
@@ -119,14 +119,14 @@ function Halfbricks (){
   </tr>
 
   <tr className="tr">
-    <td className="td "> 6x6 &ensp;0.74</td>
+    <td className="td "> 6x6" &ensp;0.74</td>
     <td className="td ">150</td>
     <td className="td ">150</td>
     <td className="td ">10</td>
     <td className="td ">45</td>
   </tr>
   <tr className="tr">
-  <td className="td "> 8x8 &ensp;1.40</td>
+  <td className="td "> 8x8" &ensp;1.40</td>
     <td className="td ">200</td>
     <td className="td ">200</td>
     <td className="td ">10</td>
@@ -134,7 +134,7 @@ function Halfbricks (){
   </tr>
 
   <tr className="tr">
-    <td className="td "> 6x12 &ensp;1.40</td>
+    <td className="td "> 6x12" &ensp;1.40</td>
     <td className="td ">300</td>
     <td className="td ">150</td>
     <td className="td ">10</td>
@@ -175,14 +175,14 @@ function Halfbricks (){
   </tr>
 
   <tr className="tr">
-    <td className="td "> 6x6 &ensp;0.70</td>
+    <td className="td "> 6x6" &ensp;0.70</td>
     <td className="td ">150</td>
     <td className="td ">150</td>
     <td className="td ">10</td>
     <td className="td ">60</td>
   </tr>
   <tr className="tr">
-  <td className="td "> 5x10 &ensp;1.0</td>
+  <td className="td "> 5x10" &ensp;1.0</td>
     <td className="td ">250</td>
     <td className="td ">125</td>
     <td className="td ">10</td>
@@ -190,7 +190,7 @@ function Halfbricks (){
   </tr>
 
   <tr className="tr">
-    <td className="td "> 9x9 &ensp;1.8</td>
+    <td className="td "> 9x9" &ensp;1.8</td>
     <td className="td ">225</td>
     <td className="td ">225</td>
     <td className="td ">10</td>
@@ -198,7 +198,7 @@ function Halfbricks (){
   </tr>
 
   <tr className="tr">
-    <td className="td "> 5x12 &ensp;1.5</td>
+    <td className="td "> 5x12" &ensp;1.5</td>
     <td className="td ">125</td>
     <td className="td ">300</td>
     <td className="td ">10</td>

@@ -16,7 +16,7 @@ function Suspend (){
       <>
 
       <div className="container text-center wd cf2">
-      <h4 className="roof " style={{backgroundColor:"#FF6624",padding:"10px",color:"#fff"}}>Suspended Floor Unit</h4>
+      <h4 className="roof " style={{backgroundColor:"#FF6624",padding:"10px",color:"#fff"}}>Suspended Floor Units</h4>
 
       <div className="row">
 
@@ -39,7 +39,7 @@ function Suspend (){
   </tr>
 
   <tr className="tr">
-    <td className="td "> 4 &ensp;&ensp; 5.2</td>
+    <td className="td ">4" &ensp;&ensp; 5.2</td>
     <td className="td ">300</td>
     <td className="td ">300</td>
     <td className="td ">100</td>
@@ -48,35 +48,35 @@ function Suspend (){
  
 
   <tr className="tr">
-    <td className="td "> 5 &ensp;&ensp;7.7</td>
+    <td className="td ">5" &ensp;&ensp;7.7</td>
     <td className="td ">300</td>
-    <td className="td ">100</td>
+    <td className="td ">300</td>
     <td className="td ">125</td>
     <td className="td ">8</td>
   </tr>
   <tr className="tr">
-    <td className="td "> 6 &ensp;&ensp;9.00</td>
+    <td className="td ">6" &ensp;&ensp;9.00</td>
     <td className="td ">300</td>
     <td className="td ">300</td>
     <td className="td ">150</td>
     <td className="td ">8</td>
   </tr>
   <tr className="tr">
-    <td className="td ">7 &ensp;&ensp;.00</td>
+    <td className="td ">7" &ensp;&ensp;10.6</td>
     <td className="td ">300</td>
     <td className="td ">300</td>
-    <td className="td ">150</td>
+    <td className="td ">175</td>
     <td className="td ">8</td>
   </tr>
   <tr className="tr">
-    <td className="td "> 8 &ensp;&ensp;12.2</td>
+    <td className="td ">8" &ensp;&ensp;12.2</td>
     <td className="td ">300</td>
     <td className="td ">300</td>
     <td className="td ">200</td>
     <td className="td ">8</td>
   </tr>
   <tr className="tr">
-    <td className="td "> 9 &ensp;&ensp;13.6</td>
+    <td className="td ">9" &ensp;&ensp;13.6</td>
     <td className="td ">300</td>
     <td className="td ">300</td>
     <td className="td ">230</td>
@@ -112,14 +112,14 @@ function Suspend (){
   </tr>
 
   <tr className="tr">
-    <td className="td ">6.2</td>
+    <td className="td ">4" &ensp;&ensp; 6.2</td>
     <td className="td ">300</td>
     <td className="td ">300</td>
     <td className="td ">100</td>
     <td className="td ">11</td>
   </tr>
   <tr className="tr">
-    <td className="td ">8.9</td>
+    <td className="td ">5" &ensp;&ensp; 8.9</td>
     <td className="td ">300</td>
     <td className="td ">300</td>
     <td className="td ">125</td>

@@ -40,7 +40,7 @@ Doc.classList.remove("show")
     <a href="/roofing"  > Roofing Tiles</a>
     <a href="half">Half Bricks and Floor Tiles</a>
     <a href="wall">Walling and Partitioning Blocks</a>
-    <a href="suspend">Suspended Floor Unit</a>
+    <a href="suspend">Suspended Floor Units</a>
 
   </div>
 </div>            </li>

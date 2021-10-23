@@ -23,7 +23,7 @@ function Walling (){
 
      
       <div className="col-md-6  text-center">
-<p className="subhead"> Partioning Block </p>
+<p className="subhead"> Partitioning Blocks </p>
 
           <img src={wal1} width="270px" height="200px" />
           <br/>
@@ -40,14 +40,14 @@ function Walling (){
   </tr>
 
   <tr className="tr">
-    <td className="td ">6* &ensp; 4.3</td>
+    <td className="td ">6" &ensp; 4.3</td>
     <td className="td ">300</td>
     <td className="td ">100</td>
     <td className="td ">225</td>
     <td className="td ">15</td>
   </tr>
   <tr className="tr">
-    <td className="td ">9* &ensp; 8.3</td>
+    <td className="td ">9" &ensp; 8.3</td>
     <td className="td ">300</td>
     <td className="td ">150</td>
     <td className="td ">225</td>
@@ -65,7 +65,7 @@ function Walling (){
      
      </div>
      <div className="col-md-6  text-center">
-     <p className="subhead"> Corner Block </p>
+     <p className="subhead"> Corner Blocks </p>
 
      <img src={wal2} width="270px" height="200px" />
      <br/>
@@ -80,7 +80,7 @@ function Walling (){
   </tr>
 
   <tr className="tr">
-    <td className="td ">4.6</td>
+    <td className="td ">6" &ensp; 4.6</td>
     <td className="td ">300</td>
     <td className="td ">150</td>
     <td className="td ">115</td>
@@ -89,10 +89,10 @@ function Walling (){
 
 
   <tr className="tr">
-    <td className="td ">5.6</td>
+    <td className="td ">9" &ensp; 5.6</td>
     <td className="td ">300</td>
     <td className="td ">225</td>
-    <td className="td ">15</td>
+    <td className="td ">115</td>
     <td className="td ">8</td>
   </tr>
 
@@ -113,7 +113,7 @@ function Walling (){
 <br/>
 <br/>
 
-<p className="subhead"> Selected Block </p>
+<p className="subhead"> Selected Bricks </p>
 
 
 <img src={wal3} width="270px" height="200px" />
@@ -135,6 +135,14 @@ function Walling (){
     <td className="td ">75</td>
     <td className="td ">60</td>
   </tr>
+
+  <tr className="tr">
+    <td className="td "></td>
+    <td className="td "></td>
+    <td className="td "></td>
+    <td className="td "></td>
+    <td className="td ">120<br/>(for 230 mm<br/>thick walls)</td>
+  </tr>
   
 
   
@@ -153,7 +161,7 @@ function Walling (){
 <br/>
 <br/>
 
-<p className="subhead"> Interlocking Block </p>
+<p className="subhead"> Interlocking Blocks </p>
 
 
 <img src={wal4} width="270px" height="200px" />
@@ -169,7 +177,7 @@ function Walling (){
   </tr>
 
   <tr className="tr">
-    <td className="td "> 6* &ensp;3.3</td>
+    <td className="td ">6" &ensp;3.3</td>
     <td className="td ">300</td>
     <td className="td ">150</td>
     <td className="td ">115</td>
@@ -178,7 +186,7 @@ function Walling (){
   
 
   <tr className="tr">
-    <td className="td "> 9* &ensp;5.2</td>
+    <td className="td ">9" &ensp;5.2</td>
     <td className="td ">300</td>
     <td className="td ">225</td>
     <td className="td ">115</td>
