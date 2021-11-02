@@ -41,7 +41,7 @@ function Suspend (){
           <img src={vents} width="270px" height="200px" />
           <br/>
                   
-          <button  className="view"> <a  className="view" href="/grilles"> View More</a></button>                    <br/>
+          <button  className="view"> <a  className="view" href="/ventilators"> View More</a></button>                    <br/>
 
 
 

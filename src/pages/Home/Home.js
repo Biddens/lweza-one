@@ -30,7 +30,7 @@ function Home (){
           " style={{color:"#fff",listStyle:"none",textDecoration:"none",}} href="/products" > LWEZA CLAYS LTD</a></h3>
 
 
-          <button className="alii0" > <a style={{backgroundColor:"#fff",color:"#ff6624",fontWeight:"900"}} href="/products" >Our Products</a></button>
+          <button className="alii0" > <a style={{backgroundColor:"#fff",color:"#ff6624",fontWeight:"900"}} href="/products" >OUR PRODUCTS</a></button>
         </div>
 
        
