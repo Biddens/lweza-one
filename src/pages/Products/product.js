@@ -1,7 +1,7 @@
 import React from 'react'
 import './style.css'
 
-import Bricks from './images/Bricks.png'
+import vents from './images/vents.png'
 import decorative from './images/decorative.png'
 
 import './style.css'
@@ -23,8 +23,8 @@ function Suspend (){
 
 
 
-<div className="row">
-  <div className="col-md-12"style={{marginBottom:"10%"}}>
+<div className="row text-center wd cf2">
+  <div className="col-md-12"style={{marginBottom:"5%"}}>
 
 
     <p className="fonts1">Lweza Clays Limited is a private company that manufactures modern, standard, durable and affordable building materials that are internationally friendly in real estate development today. Our company has built a reputation with clients who have been particularly interested in putting up residential and commercial structures both at the national and international levels. Our major objective is to enable builders to acquire building materials at the cheapest cost possible and above all, offer great service to our customers.</p>
@@ -34,8 +34,24 @@ function Suspend (){
   </div>
 
       <div className="row">
+
+<div className="col-md-4  text-center">
+<p className="subhead">Ventilators</p>
+
+          <img src={vents} width="270px" height="200px" />
+          <br/>
+                  
+          <button  className="view"> <a  className="view" href="/grilles"> View More</a></button>                    <br/>
+
+
+
+
+
+
      
-      <div className="col-md-4  text-center">
+</div>
+     
+<div className="col-md-4  text-center">
 <p className="subhead">Half Bricks and Floor Tiles </p>
 
           <img src={half} width="270px" height="200px" />
@@ -48,6 +64,7 @@ function Suspend (){
 
      
 </div>
+
 <div className="col-md-4  text-center">
 <p className="subhead">Walling and Partitioning Blocks</p>
 
@@ -64,7 +81,7 @@ function Suspend (){
      
 </div>
 
-<div className="col-md-4  text-center">
+<div className="col-md-4  text-center" style={{marginTop:"5%"}}>
 <p className="subhead"> Roofing Tiles </p>
 
           <img src={flattop} width="270px" height="200px" />
@@ -84,6 +101,22 @@ function Suspend (){
           <img src={sp0} width="270px" height="200px" />
           <br/>
           <button className="view"> <a  className="view" href="/suspend"> View More</a></button>                    <br/>
+
+
+
+
+
+     
+</div>
+
+<div className="col-md-4  text-center" style={{marginTop:"5%"}}>
+<p className="subhead">Decorative Grilles</p>
+
+          <img src={decorative} width="270px" height="200px" />
+          <br/>
+                  
+          <button  className="view"> <a  className="view" href="/grilles"> View More</a></button>                    <br/>
+
 
 
 

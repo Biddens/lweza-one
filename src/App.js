@@ -9,10 +9,12 @@ import { createMuiTheme, ThemeProvider } from '@material-ui/core/styles';
 import { zhCN, enUS, esES } from '@material-ui/core/locale';
 import * as locales from '@material-ui/core/locale';
 import Home from './pages/Home/Home.js'
+import Ventilators from './pages/ventilators/ventilators.js'
 import Roofing from './pages/Roofing/roofing.js'
 import Halfbricks from './pages/halfbricks/halfbricks.js'
 import Walling from './pages/walling/walling.js'
 import suspend from '../src/pages/suspended/suspend.js'
+import Grilles from './pages/grilles/grilles.js'
 import Product from '../src/pages/Products/product.js'
 
 function App() {
@@ -24,6 +26,8 @@ function App() {
         <Navbar />   
         <Switch>
           <Route path="/" component={Home} exact/>
+          <Route path="/ventilators" component={Ventilators} exact/>
+          <Route path="/grilles" component={Grilles} exact/>
           <Route path="/roofing" component={Roofing} exact/>
           <Route path="/half" component={Halfbricks} exact/>
           <Route path="/wall" component={Walling} exact/>

@@ -37,10 +37,12 @@ Doc.classList.remove("show")
             <div class="dropdown">
   <button class="dropbtn">Products</button>
   <div class="dropdown-content">
+    <a href="ventilators">Ventilators</a>
     <a href="/roofing"  > Roofing Tiles</a>
     <a href="half">Half Bricks and Floor Tiles</a>
     <a href="wall">Walling and Partitioning Blocks</a>
     <a href="suspend">Suspended Floor Units</a>
+    <a href="grilles">Decorative Grilles</a>
 
   </div>
 </div>            </li>
