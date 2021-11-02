@@ -9,7 +9,7 @@ body{
     font-family: 'Montserrat', sans-serif;}
 .cf0{
     padding: 0px !important;
-    background-color: #fff;
+    background-color: #ffff;
     font-family: 'Montserrat', sans-serif;
 width: 100%!important;}
 .collapse{
@@ -17,12 +17,12 @@ width: 100%!important;}
     font-family: 'Montserrat', sans-serif;}
 .navbar-light .navbar-brand {
     font-size: 30px;
-    font-family: 'Montserrat', sans-serif;    color: brown;
+    font-family: 'Montserrat', sans-serif;    color: orangered;
     margin-left: -3%;
     font-weight: 900;
 }
 .navbar-light .navbar-nav .nav-link {
-    color: #000000;
+    color: #181614;
     font-size: 22px!important;
     font-family: 'Montserrat', sans-serif;
 font-weight: 900;}
@@ -99,8 +99,8 @@ font-weight: 900;}
     font-family: 'Montserrat', sans-serif;  }
   .navbar-brand{
       margin-left: -6%;
-      color: #FF6624 !important;
-      font-weight: 1200;
+      color: #ff6624;
+      font-weight: 900;
 
   }
   

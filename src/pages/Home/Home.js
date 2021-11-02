@@ -27,10 +27,10 @@ function Home (){
 
           <img className="img1" src={background} />
           <h3 className="alii1" > <a  className="bolder0
-          " style={{color:"#fff",listStyle:"none",textDecoration:"none",}} href="/products" > LWEZA CLAYS LTD</a></h3>
+          " style={{color:"#f1f1f1",listStyle:"none",textDecoration:"none",}} href="/products" >LWEZA CLAYS LTD</a></h3>
 
 
-          <button className="alii0" > <a style={{backgroundColor:"#fff",color:"#ff6624",fontWeight:"900"}} href="/products" >OUR PRODUCTS</a></button>
+          <button className="alii0" > <a style={{backgroundColor:"#f1f1f1", color:"#ff6624", fontWeight:"900"}} href="/products" > PRODUCTS </a></button>
         </div>
 
        
@@ -44,7 +44,7 @@ function Home (){
   
   </div>   
 
-  <div className="container text-center">
+  <div className="container-fluid text-center" style={{backgroundColor:"#f1f1f1"}}>
     <div className="row">
     <div className="col-md-12">
 <p className="details">One of Uganda's Premier<br/> Manufacturers & Distributors of Quality Clay Building and Decorative Ware</p>
